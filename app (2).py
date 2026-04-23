@@ -79,4 +79,13 @@ data
 
 # Recordar medida de error del modelo
 
-st.warning("El modelo presento un buen desempeño, pero no es perfecto")
+st.warning("El modelo no es perfecto")
+
+
+
+
+
+
+
+
+
