@@ -80,12 +80,3 @@ data
 # Recordar medida de error del modelo
 
 st.warning("El modelo no es perfecto")
-
-
-
-
-
-
-
-
-
