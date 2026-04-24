@@ -75,7 +75,7 @@ data['Prediccion']=Y_pred
 data.head()
 
 Y_fut = modelo.predict(data_preparada)
-data['Prediccion KNN']=labelencoder.inverse_transform(Y_fut)
+data['Prediccion']=labelencoder.inverse_transform(Y_fut)
 
 #Predicciones finales
 data
