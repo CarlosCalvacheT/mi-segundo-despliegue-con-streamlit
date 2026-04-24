@@ -82,4 +82,4 @@ data
 
 # Recordar medida de error del modelo
 
-st.warning("El modelo no es perfecto")
+st.warning("El modelo tiene una precision del 843")
